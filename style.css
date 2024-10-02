@@ -1,0 +1,26 @@
+.course-color{
+    background-color: #e3dede;
+}
+
+.sem-level {
+    background-color: #539fea;
+    color: #fff;
+}
+
+.course-pending {
+    background-color: yellow;
+}
+
+.course-taken {
+    background-color: skyblue;
+}
+
+table, th, td{
+    border: 1px solid black;
+    padding: 10px;
+    font-family: 'inter', Verdana, "Sagoe UI", Helvetica, sans-serif;
+    font-size: 12px;
+    border-collapse: collapse;
+    text-align: center;
+    margin: auto;
+}
